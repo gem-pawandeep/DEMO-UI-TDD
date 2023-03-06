@@ -1,0 +1,56 @@
+{
+  "launchedAmazon": {
+    "runFlag": "Y",
+    "category": "Test",
+    "scenarioID": "V2S001",
+    "inputData": {
+      "id": 101
+    }
+  },
+  "loginIncorrectCredentials": {
+    "runFlag": "Y",
+    "category": "Test",
+    "scenarioID": "V2S003",
+    "inputData": {
+      "id": 103,
+      "email": "abc@gmail.com",
+      "pass": "abc@123"
+    }
+  },
+  "validateInstagramHyperlink": {
+    "runFlag": "Y",
+    "category": "Test",
+    "scenarioID": "V2S008",
+    "inputData": {
+      "id": 108
+    }
+  },
+  "validateLangChangeBangla": {
+    "runFlag": "Y",
+    "category": "Test",
+    "scenarioID": "V2S019",
+    "inputData": {
+      "id": 119,
+      "Bangla": "bn"
+    }
+  },
+  "validationAustralia": {
+    "runFlag": "Y",
+    "category": "Test",
+    "scenarioID": "V2S025",
+    "inputData": {
+      "id": 125,
+      "Country": ".au",
+      "Name": "Australia"
+    }
+  },
+  "validateCartAfterNavigating":{
+    "runFlag": "Y",
+    "category": "Test",
+    "scenarioID": "V2S044",
+    "inputData": {
+      "id": 144,
+      "item": "charger"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "environment": "beta",
+  "project_name": "Demo-UI-TDD",
+  "report_name": "UI-Report",
+  "browserTimeout": 100,
+  "beta":{
+    "launchUrl": "https://www.amazon.in",
+    "browserName": "chrome",
+    "browserTimeout": 10
+}
+}

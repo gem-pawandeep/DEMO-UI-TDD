@@ -1,0 +1,7 @@
+<suite name="Regression_Test" >
+    <test verbose="5" name="DEMO-UI-TDD" >
+        <classes>
+            <class name="com.qa.Amazon.Tests.AmazonTestCases"/>
+        </classes>
+    </test>
+</suite>
